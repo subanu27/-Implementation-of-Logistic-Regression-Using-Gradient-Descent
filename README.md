@@ -97,8 +97,7 @@ plt.show()
 
 ![image](https://user-images.githubusercontent.com/87663343/174078056-59311506-06d9-4e0c-8807-29f985b183a7.png)
 
-**Predicted Y array:
-**
+**Predicted Y array:**
 ![image](https://user-images.githubusercontent.com/87663343/174078195-a34fb2e8-46d1-42c6-8f13-a70e9746bb13.png)
 
 **Confusion matrix:**
